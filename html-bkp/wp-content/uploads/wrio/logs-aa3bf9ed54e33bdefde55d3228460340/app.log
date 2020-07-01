@@ -1,0 +1,119 @@
+
+29-01-2020 12:16:41.1580300201.1762 [10.6.220.254][5e3177][info] Parent plugin start installation!
+29-01-2020 12:16:44.1580300204.581 [10.6.220.254][5e3177][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.4.2
+29-01-2020 12:17:39.1580300259.4785 [10.6.220.254][5e3177][info] Parent plugin installation complete!
+29-01-2020 12:17:09.1580300229.4011 [10.6.220.254][5e3177][info] Parent plugin start installation!
+29-01-2020 12:17:11.1580300231.7807 [10.6.220.254][5e3177][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.4.2
+29-01-2020 12:17:39.1580300259.4785 [10.6.220.254][5e3177][info] Parent plugin installation complete!
+29-01-2020 12:18:00.1580300280.5667 [10.6.220.254][5e3177][info] Try to create backup directory. Backup dir: (/var/www/html/wp-content/uploads/wio_backup)
+29-01-2020 12:18:18.1580300298.9761 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:18:18.1580300298.9827 [10.6.220.254][5e3178][info] Try to create backup directory. Backup dir: (/var/www/html/wp-content/uploads/wio_backup/2019/11)
+29-01-2020 12:18:19.1580300299.0514 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/1547_logo_large.png) to a remote server (server_1).
+29-01-2020 12:18:19.1580300299.5712 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:19.1580300299.8249 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/1547_logo_large-150x150.png) to a remote server (server_1).
+29-01-2020 12:18:20.1580300300.2086 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:20.1580300300.4454 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/1547_logo_large-300x65.png) to a remote server (server_1).
+29-01-2020 12:18:28.1580300308.3233 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:29.1580300309.3544 [10.6.220.254][5e3178][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"11","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":55754,"final_size":21753,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":28135,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300308}
+29-01-2020 12:18:32.1580300312.1253 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 11
+29-01-2020 12:18:36.1580300316.9976 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:18:40.1580300320.6235 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/The-116-BistroInnerpage-Banner_09.jpg) to a remote server (server_1).
+29-01-2020 12:18:41.1580300321.5327 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:42.1580300322.2399 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/The-116-BistroInnerpage-Banner_09-150x150.jpg) to a remote server (server_1).
+29-01-2020 12:18:42.1580300322.6255 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:42.1580300322.8995 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/The-116-BistroInnerpage-Banner_09-300x125.jpg) to a remote server (server_1).
+29-01-2020 12:18:43.1580300323.2637 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:43.1580300323.8455 [10.6.220.254][5e3178][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"15","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":499993,"final_size":191849,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":482308,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300323}
+29-01-2020 12:18:45.1580300325.0688 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 10
+29-01-2020 12:18:45.1580300325.5198 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:18:47.1580300327.2882 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/The-116-BistroInnerpage-Banner_05.jpg) to a remote server (server_1).
+29-01-2020 12:18:48.1580300328.0244 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:48.1580300328.5908 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/The-116-BistroInnerpage-Banner_05-150x150.jpg) to a remote server (server_1).
+29-01-2020 12:18:48.1580300328.9584 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:49.1580300329.204 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/The-116-BistroInnerpage-Banner_05-300x125.jpg) to a remote server (server_1).
+29-01-2020 12:18:49.1580300329.5842 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:50.1580300330.8002 [10.6.220.254][5e3178][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"16","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":368270,"final_size":148433,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":348948,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300329}
+29-01-2020 12:18:51.1580300331.2122 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 9
+29-01-2020 12:18:52.1580300332.1116 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:18:52.1580300332.1182 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/Asset-7@2x.png) to a remote server (server_1).
+29-01-2020 12:18:52.1580300332.5175 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:52.1580300332.7907 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/Asset-7@2x-150x89.png) to a remote server (server_1).
+29-01-2020 12:18:53.1580300333.1603 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:53.1580300333.3967 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/Asset-7@2x-300x79.png) to a remote server (server_1).
+29-01-2020 12:18:53.1580300333.7612 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:54.1580300334.2283 [10.6.220.254][5e3178][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"19","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":9498,"final_size":6475,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":2063,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300333}
+29-01-2020 12:18:54.1580300334.8405 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 8
+29-01-2020 12:18:55.1580300335.0758 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:18:55.1580300335.6513 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/20898-scaled.jpg) to a remote server (server_1).
+29-01-2020 12:18:56.1580300336.5551 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:57.1580300337.1285 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/20898-150x150.jpg) to a remote server (server_1).
+29-01-2020 12:18:57.1580300337.4906 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:18:57.1580300337.727 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/20898-300x183.jpg) to a remote server (server_1).
+29-01-2020 12:19:02.1580300342.0513 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:05.1580300345.5594 [10.6.220.254][5e3178][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"23","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":283064,"final_size":125208,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":263892,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300345}
+29-01-2020 12:19:06.1580300346.0122 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 7
+29-01-2020 12:19:06.1580300346.2023 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:19:06.1580300346.2701 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/help-desk.jpg) to a remote server (server_1).
+29-01-2020 12:19:07.1580300347.1697 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:07.1580300347.6511 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/help-desk-150x150.jpg) to a remote server (server_1).
+29-01-2020 12:19:08.1580300348.019 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:08.1580300348.256 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/help-desk-300x300.jpg) to a remote server (server_1).
+29-01-2020 12:19:08.1580300348.706 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:12.1580300352.1653 [10.6.220.254][5e3178][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"24","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":111074,"final_size":84108,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":92155,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300352}
+29-01-2020 12:19:12.1580300352.8332 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 6
+29-01-2020 12:19:13.1580300353.2699 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:19:13.1580300353.3731 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/asset-mgmt-post-1-image.jpg) to a remote server (server_1).
+29-01-2020 12:19:14.1580300354.2866 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:14.1580300354.8608 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/asset-mgmt-post-1-image-150x150.jpg) to a remote server (server_1).
+29-01-2020 12:19:16.1580300356.2754 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:16.1580300356.5258 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/asset-mgmt-post-1-image-300x164.jpg) to a remote server (server_1).
+29-01-2020 12:19:16.1580300356.9399 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:17.1580300357.6454 [10.6.220.254][5e3178][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"27","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":167702,"final_size":166070,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":147893,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300357}
+29-01-2020 12:19:18.1580300358.8463 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 5
+29-01-2020 12:19:19.1580300359.2032 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:19:19.1580300359.9026 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/stephen-dawson-qwtCeJ5cLYs-unsplash-scaled.jpg) to a remote server (server_1).
+29-01-2020 12:19:21.1580300361.0903 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:21.1580300361.7929 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/stephen-dawson-qwtCeJ5cLYs-unsplash-150x150.jpg) to a remote server (server_1).
+29-01-2020 12:19:22.1580300362.2294 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:22.1580300362.5056 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/stephen-dawson-qwtCeJ5cLYs-unsplash-300x216.jpg) to a remote server (server_1).
+29-01-2020 12:19:22.1580300362.902 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:24.1580300364.4102 [10.6.220.254][5e3178][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"28","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":514561,"final_size":210219,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":492810,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300364}
+29-01-2020 12:19:25.1580300365.1129 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 4
+29-01-2020 12:19:25.1580300365.6078 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:19:26.1580300366.3019 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/net2web_logo-scaled.png) to a remote server (server_1).
+29-01-2020 12:19:27.1580300367.3445 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:27.1580300367.8113 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/net2web_logo-150x150.png) to a remote server (server_1).
+29-01-2020 12:19:35.1580300375.4908 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:36.1580300376.7788 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/net2web_logo-300x111.png) to a remote server (server_1).
+29-01-2020 12:19:37.1580300377.3121 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:37.1580300377.8103 [10.6.220.254][5e3178][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"41","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":218609,"final_size":62738,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":196999,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300377}
+29-01-2020 12:19:38.1580300378.3654 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 3
+29-01-2020 12:19:41.1580300381.0724 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:19:41.1580300381.0791 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/ups-light-indicator.png) to a remote server (server_1).
+29-01-2020 12:19:41.1580300381.9329 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:42.1580300382.4113 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/ups-light-indicator-150x150.png) to a remote server (server_1).
+29-01-2020 12:19:43.1580300383.9228 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:44.1580300384.1993 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/ups-light-indicator-300x232.png) to a remote server (server_1).
+29-01-2020 12:19:44.1580300384.9815 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:45.1580300385.6787 [10.6.220.254][5e3178][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"97","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":218856,"final_size":99295,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":133532,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300385}
+29-01-2020 12:19:46.1580300386.3594 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 2
+29-01-2020 12:19:47.1580300387.6767 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:19:47.1580300387.6834 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/ups-light-indicator-1.png) to a remote server (server_1).
+29-01-2020 12:19:48.1580300388.7115 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:50.1580300390.1907 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/ups-light-indicator-1-150x150.png) to a remote server (server_1).
+29-01-2020 12:19:50.1580300390.6913 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:50.1580300390.9313 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/ups-light-indicator-1-300x232.png) to a remote server (server_1).
+29-01-2020 12:19:51.1580300391.6756 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:52.1580300392.0953 [10.6.220.254][5e3178][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"98","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":218856,"final_size":98420,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":133532,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300392}
+29-01-2020 12:19:52.1580300392.8319 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 1
+29-01-2020 12:19:53.1580300393.0859 [10.6.220.254][5e3178][info] Start bulk optimization process! Scope: media-library
+29-01-2020 12:19:53.1580300393.0918 [10.6.220.254][5e3178][info] Preparing to upload a file (/var/www/html/wp-content/uploads/2019/11/orbeon-navbar-logo.png) to a remote server (server_1).
+29-01-2020 12:19:53.1580300393.4554 [10.6.220.254][5e3178][info] File successfully uploaded to remote server (server_1).
+29-01-2020 12:19:53.1580300393.8327 [10.6.220.254][5e3178][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"99","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2278,"final_size":1227,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":2278,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1580300393}
+29-01-2020 12:19:54.1580300394.467 [10.6.220.254][5e3178][info] End bulk optimization process! Scope: media-library. Remain: 0
